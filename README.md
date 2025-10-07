@@ -25,6 +25,15 @@
  ![Windows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge
 )-->
 
+### Cursos em Andamento
+
+
+[<img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="50"></a>](https://web.dio.me/track/b9eb6374-fbd0-4a21-8747-9f25e8371f03)
+
+### Cursos e Bootcamps concluídos
+
+
+[<img src="https://assets.dio.me/vKS7Q5G0wquZ8uE6GlzHCIP3mgAOcl-1TZg4zvTvgho/f:webp/h:120/q:80/L3RyYWNrcy80YzRjNzc2MC1hY2YwLTQ5MjctOTdhMS01ZjQ3ZWFlMDExYWQucG5n" height="50"></a>](https://web.dio.me/track/santander-linux-para-iniciantes) [<img src="https://assets.dio.me/1NkLJXos8kOI3HcFX6Ya29zHtEnXjFkpiSHleUrEvX8/f:webp/h:120/q:80/L3RyYWNrcy82MDY4MjNjMi04YTczLTQ2NTUtOTQ3ZC1kNDFiOTkxYmFmMTIucG5n" height="50"></a>](https://web.dio.me/track/linux-experience)
 
 
 ### Meus Contatos Profissionais
