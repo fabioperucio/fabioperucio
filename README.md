@@ -1,4 +1,4 @@
-# Olá, eu sou o Fabio Perucio
+# Olá, eu sou Fabio Perucio
 
 ### Esse perfil está em constante construção. Espero em breve incluir várias habilidades
 
