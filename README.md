@@ -1,6 +1,6 @@
 # Olá, eu sou Fabio Perucio
 
-### Esse perfil está em constante construção. Espero em breve incluir várias habilidades
+### Esse perfil está em constante construção.
 
 ## Analista de Infraestrutura de TI 💻🛜
 
