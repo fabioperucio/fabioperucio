@@ -29,7 +29,7 @@
  ![Windows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge
 )-->
 
-### Cursos em Andamento
+### Treinamentos Ativos
 
 
 [<img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="50"></a>](https://web.dio.me/track/b9eb6374-fbd0-4a21-8747-9f25e8371f03)
