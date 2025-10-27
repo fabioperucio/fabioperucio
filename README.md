@@ -14,7 +14,7 @@
 
 🎓 **Formação em Gestão da TI**  
 🎓 **MBA em Gestão de Pessoas e Liderança**  
-📚 **Aluno da Plataforma [DIO](http://dio.me) - [Perfil Público na DIO](https://www.dio.me/users/fabioperucio)**  
+📚 **Aluno da Plataforma [DIO](http://dio.me)  
 📚 **Aluno da Plataforma [DLtec do Brasil](www.dltec.com.br)**  
 
 **Casado, Pai, gosto de boa música, bons livros, um vinho ou um café rendem boas conversas. Tenho muita Fé, e que tudo que é pra ser nosso, será, independente das circunstâncias.**
