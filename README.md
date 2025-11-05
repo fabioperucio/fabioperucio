@@ -1,4 +1,4 @@
-<img src="https://github.com/fabioperucio/fabioperucio/blob/main/perfil.png" width="1366" height="768">
+<img src=<center>"https://github.com/fabioperucio/fabioperucio/blob/main/perfil.png"</center> width="1024" height="768">
 
 
 # Olá, eu sou Fabio Perucio
