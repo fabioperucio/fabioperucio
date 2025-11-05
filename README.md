@@ -1,6 +1,6 @@
 <div align="center">
 
-<![profile](https://github.com/fabioperucio/fabioperucio/blob/main/perfil.png)"width="1024" height="768"/>
+<![profile](https://github.com/fabioperucio/fabioperucio/blob/main/perfil.png)
 
 
 </div>
