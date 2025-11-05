@@ -1,3 +1,6 @@
+<img src="[URL](https://github.com/fabioperucio/fabioperucio/blob/main/github.png)" width="1066" height="433">
+
+
 # Olá, eu sou Fabio Perucio
 
 ### Esse perfil está em constante construção.
