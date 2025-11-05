@@ -1,7 +1,6 @@
 <div align="center">
 
-<![profile](https://github.com/fabioperucio/fabioperucio/blob/main/perfil.png)
-
+![profile](https://github.com/fabioperucio/fabioperucio/blob/main/perfil.png)
 
 </div>
 
