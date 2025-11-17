@@ -40,7 +40,7 @@
 ### Cursos em Andamento
 
 
-[<img src="https://assets.dio.me/mVeSISg43EBPanMZGNzu861giZ66K5QiCNZc26hbCe0/f:webp/h:120/q:80/L3RyYWNrcy82ODk1YjZlZi0xMjIwLTQ5OTUtYjY2OC0wMDFmN2RkNGIyYjkucG5n" height="50"></a>](https://web.dio.me/track/6eb1e0e3-9c16-457f-bd82-a1fdb8b92960)
+[<img src="https://assets.dio.me/mVeSISg43EBPanMZGNzu861giZ66K5QiCNZc26hbCe0/f:webp/h:120/q:80/L3RyYWNrcy82ODk1YjZlZi0xMjIwLTQ5OTUtYjY2OC0wMDFmN2RkNGIyYjkucG5n" height="50"></a>](https://web.dio.me/track/6eb1e0e3-9c16-457f-bd82-a1fdb8b92960) [<img src="<img width="141" height="120" alt="image" src="https://github.com/user-attachments/assets/d08137c4-6c87-4550-b384-7b95d5129f90" />" height="50"></a>](https://web.dio.me/track/d26baa2a-abaf-40fa-8a14-a530bebe8a91)
 
 ### Cursos e Bootcamps concluídos
 
