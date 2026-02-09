@@ -26,13 +26,9 @@
 
 **Casado, Pai, gosto de boa música, bons livros, um vinho ou um café rendem boas conversas. Tenho muita Fé, e que tudo que é pra ser nosso, será, independente das circunstâncias.**  
 
-![fabioperucio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioperucio&show_icons=true&theme=radical) 
+[![fabioperucio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioperucio&show_icons=true&theme=radical)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioperucio&langs_count=8&theme=dracula)
-
-<!--### Algumas das minhas habilidades profissionais - em construção 🚧
- ![Windows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)  ![Linux](https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge
-)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioperucio&langs_count=8&theme=dracula)]
 
 ### Cursos em Andamento
 
