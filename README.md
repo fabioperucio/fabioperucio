@@ -24,7 +24,7 @@
 📚 **Aluno da Plataforma [DIO](http://dio.me)  
 📚 **Aluno da Plataforma [DLtec do Brasil](www.dltec.com.br)**  
 
-**Casado, Pai, gosto de boa música, bons livros, um vinho ou um café rendem boas conversas. Tenho muita Fé, e que tudo que é pra ser nosso, será, independente das circunstâncias.**
+**Casado, Pai, gosto de boa música, bons livros, um vinho ou um café rendem boas conversas. Tenho muita Fé, e que tudo que é pra ser nosso, será, independente das circunstâncias.**  
 
 ![fabioperucio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioperucio&show_icons=true&theme=radical) 
 
