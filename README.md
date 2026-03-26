@@ -17,18 +17,17 @@
 ##### Recentemente decidi estudar outras áreas da TI para criar condições de me tornar multifuncional e poder agregar em todas equipes que tiver oportunidade de trabalhar. 
 #### Conhecimento nunca é demais e nos dá liberdade.
 
+
 ### 🔎**Sobre Mim**
 
 🎓 **Formação em Gestão da TI**  
 🎓 **MBA em Gestão de Pessoas e Liderança**  
 📚 **Aluno da Plataforma [DIO](http://dio.me)  
-📚 **Aluno da Plataforma [DLtec do Brasil](www.dltec.com.br)**  
+📚 **Aluno da Plataforma [DLtec do Brasil](www.dltec.com.br)** 
+
 
 **Casado, Pai, gosto de boa música, bons livros, um vinho ou um café rendem boas conversas. Tenho muita Fé, e que tudo que é pra ser nosso, será, independente das circunstâncias.**  
 
-[![fabioperucio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioperucio&show_icons=true&theme=radical)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioperucio&langs_count=8&theme=dracula)]
 
 
 
