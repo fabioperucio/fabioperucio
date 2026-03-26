@@ -30,15 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioperucio&langs_count=8&theme=dracula)]
 
-### Cursos em Andamento
-
-
-[<img src="https://assets.dio.me/mVeSISg43EBPanMZGNzu861giZ66K5QiCNZc26hbCe0/f:webp/h:120/q:80/L3RyYWNrcy82ODk1YjZlZi0xMjIwLTQ5OTUtYjY2OC0wMDFmN2RkNGIyYjkucG5n" height="50"></a>](https://web.dio.me/track/6eb1e0e3-9c16-457f-bd82-a1fdb8b92960) 
-
-### Cursos e Bootcamps concluídos
-
-
-[<img src="https://assets.dio.me/vKS7Q5G0wquZ8uE6GlzHCIP3mgAOcl-1TZg4zvTvgho/f:webp/h:120/q:80/L3RyYWNrcy80YzRjNzc2MC1hY2YwLTQ5MjctOTdhMS01ZjQ3ZWFlMDExYWQucG5n" height="50"></a>](https://web.dio.me/track/santander-linux-para-iniciantes) [<img src="https://assets.dio.me/1NkLJXos8kOI3HcFX6Ya29zHtEnXjFkpiSHleUrEvX8/f:webp/h:120/q:80/L3RyYWNrcy82MDY4MjNjMi04YTczLTQ2NTUtOTQ3ZC1kNDFiOTkxYmFmMTIucG5n" height="50"></a>](https://web.dio.me/track/linux-experience) [<img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="50"></a>](https://web.dio.me/track/b9eb6374-fbd0-4a21-8747-9f25e8371f03) [<img src="https://github.com/user-attachments/assets/d08137c4-6c87-4550-b384-7b95d5129f90" height="50"></a>](https://web.dio.me/track/d26baa2a-abaf-40fa-8a14-a530bebe8a91)
 
 
 ### Meus Contatos Profissionais
